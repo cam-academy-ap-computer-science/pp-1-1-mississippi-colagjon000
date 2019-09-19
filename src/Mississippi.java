@@ -1,4 +1,9 @@
-
+/* Grading Notes
+25/25 points
+Good job!
+It's probably not necessary to separate the pieces of the letters into different methods, I didn't deduct points for this. 
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
